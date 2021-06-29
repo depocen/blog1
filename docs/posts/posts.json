@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-06-29-my-first-r-note/",
+    "title": "My first R note",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nguyen Ngoc Anh",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-29",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-29T11:59:58+07:00",
+    "input_file": "my-first-r-note.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
